@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FFmpeg07V2.iml" filepath="$PROJECT_DIR$/FFmpeg07V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessDaemon/ProcessDaemon.iml" filepath="$PROJECT_DIR$/ProcessDaemon/ProcessDaemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessDaemon/app.iml" filepath="$PROJECT_DIR$/ProcessDaemon/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegv1/ffmpegv1.iml" filepath="$PROJECT_DIR$/ffmpegv1/ffmpegv1.iml" />
+    </modules>
+  </component>
+</project>
